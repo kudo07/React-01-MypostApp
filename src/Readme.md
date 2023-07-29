@@ -1,5 +1,3 @@
-# React + Vite
-
 1. Chapter-3
 
 A) Designing Footer, Homepage, and Call to Action
@@ -107,6 +105,6 @@ k)Designing Call to Action section
    b) now with the help of axios we fetch the users data and post data as well
 
    J)Design Layout of post detail page
-   a)we make the card in row in classname containe div side by side
+   we make the card in row in classname containe div side by side
 
    k)Destructuring and Setting Post and User Data from Response to State Variables
